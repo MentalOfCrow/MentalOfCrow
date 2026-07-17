@@ -80,7 +80,7 @@ If you would like to know more about a private project, I may be able to share a
   </tr>
   <tr>
     <td align="center" width="270"><a href="https://learn.microsoft.com/en-us/dotnet/core/get-started"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/dotnetcore/dotnetcore-original.svg" width="52" height="52" alt=".NET" /><br/><strong>.NET</strong></a></td>
-    <td align="center" width="270"><a href="https://www.gnu.org/software/bash/manual/bash.html"><img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="52" height="52" alt="Shell / Bash" /><br/><strong>Shell / Bash</strong></a></td>
+    <td align="center" width="270"><a href="https://ubuntu.com/tutorials/command-line-for-beginners"><img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="52" height="52" alt="Shell / Bash" /><br/><strong>Shell / Bash</strong></a></td>
     <td align="center" width="270"><a href="https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/00-introduction"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/powershell/powershell-original.svg" width="52" height="52" alt="PowerShell" /><br/><strong>PowerShell</strong></a></td>
   </tr>
 </table>
