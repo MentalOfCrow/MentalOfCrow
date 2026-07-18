@@ -2,15 +2,30 @@
   <img src="./assets/profile-banner.svg" alt="Hugo — Full-Stack Development, Cybersecurity and Network Infrastructure" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MentalOfCrow&label=Profile%20views&color=2563eb&style=flat-square" alt="MentalOfCrow profile views" />
-</p>
-
 ## About me
 
 I'm **Hugo**, a French developer and an incoming fourth-year IT student focused on **full-stack development**, **cybersecurity**, and **network infrastructure**.
 
 I build web and mobile applications from interface to deployment, with particular attention to clean architecture, performance, secure coding, and reliable infrastructure.
+
+<div align="center">
+
+### Help me grow this portfolio ⭐
+
+I’d genuinely value your feedback. Take a look at my developer portfolio and tell me what you think. If you enjoy it, starring the repository helps more people discover the project and brings me closer to GitHub’s **Starstruck** achievement.
+
+<a href="https://hugobisserier.com/">
+  <img src="https://img.shields.io/badge/Explore_my_portfolio-hugobisserier.com-0ea5e9?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Explore Hugo Bisserier's developer portfolio" />
+</a>
+<a href="https://github.com/MentalOfCrow/dev-portfolio">
+  <img src="https://img.shields.io/github/stars/MentalOfCrow/dev-portfolio?style=for-the-badge&amp;logo=github&amp;label=Star%20the%20portfolio&amp;color=181717" alt="Star the dev portfolio on GitHub" />
+</a>
+
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MentalOfCrow&amp;label=Profile%20views&amp;color=2563eb&amp;style=flat-square" alt="MentalOfCrow profile views" />
+</p>
 
 - 🇫🇷 Based in France; French is my primary language.
 - 🔐 Interested in application security, systems hardening, and security-by-design.
@@ -40,9 +55,9 @@ I build web and mobile applications from interface to deployment, with particula
 
 ## Projects
 
-Most of my active work is kept **private**, including several mobile applications and websites. I keep a curated selection of repositories public to share experiments, technical explorations, and selected projects.
+I currently work across **38 repositories: 14 public and 24 private**. Much of my active work remains private, particularly mobile applications, websites, team projects, and repositories containing personal or confidential material. I keep a curated selection public to share experiments, technical explorations, and selected projects.
 
-If you would like to know more about a private project, I may be able to share additional context or a demonstration when appropriate.
+If a private project interests you, [contact me](https://hugobisserier.com/contact). When confidentiality and ownership allow it, I can share a demonstration, selected code excerpts, architecture decisions, or a technical walkthrough so we can compare approaches and improve together.
 
 ## Technologies
 
