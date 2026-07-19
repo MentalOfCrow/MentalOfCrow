@@ -18,7 +18,7 @@ I’d genuinely value your feedback. Take a look at my developer portfolio and t
   <img src="https://img.shields.io/badge/Explore_my_portfolio-hugobisserier.com-0ea5e9?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Explore Hugo Bisserier's developer portfolio" />
 </a>
 <a href="https://github.com/MentalOfCrow/dev-portfolio">
-  <img src="https://img.shields.io/github/stars/MentalOfCrow/dev-portfolio?style=for-the-badge&amp;logo=github&amp;label=Star%20the%20portfolio&amp;color=181717" alt="Star the dev portfolio on GitHub" />
+  <img src="https://badgen.net/github/stars/MentalOfCrow/dev-portfolio?label=Star%20the%20portfolio&amp;color=181717&amp;icon=github&amp;scale=1.5" alt="Star the dev portfolio on GitHub" />
 </a>
 
 </div>
